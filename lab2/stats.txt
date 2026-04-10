@@ -1,0 +1,240 @@
+Size: 200x200
+Operations: 1.600e+07
+Threads: 1
+Time: 0.101055 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Threads: 2
+Time: 0.0591854 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Threads: 4
+Time: 0.0382325 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Threads: 8
+Time: 0.0277932 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Threads: 1
+Time: 0.756178 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Threads: 2
+Time: 0.439519 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Threads: 4
+Time: 0.328214 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Threads: 8
+Time: 0.230946 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Threads: 1
+Time: 6.96875 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Threads: 2
+Time: 3.92694 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Threads: 4
+Time: 2.22882 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Threads: 8
+Time: 1.61911 sec
+Verification: Successful
+
+Size: 1000x1000
+Operations: 2.000e+09
+Threads: 1
+Time: 15.7435 sec
+Verification: Successful
+
+Size: 1000x1000
+Operations: 2.000e+09
+Threads: 2
+Time: 8.30295 sec
+Verification: Successful
+
+Size: 1000x1000
+Operations: 2.000e+09
+Threads: 4
+Time: 4.46369 sec
+Verification: Successful
+
+Size: 1000x1000
+Operations: 2.000e+09
+Threads: 8
+Time: 3.91676 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Threads: 1
+Time: 28.8226 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Threads: 2
+Time: 14.9306 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Threads: 4
+Time: 9.01316 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Threads: 8
+Time: 7.73 sec
+Verification: Successful
+
+Size: 1400x1400
+Operations: 5.488e+09
+Threads: 1
+Time: 47.6848 sec
+Verification: Successful
+
+Size: 1400x1400
+Operations: 5.488e+09
+Threads: 2
+Time: 24.2073 sec
+Verification: Successful
+
+Size: 1400x1400
+Operations: 5.488e+09
+Threads: 4
+Time: 15.1583 sec
+Verification: Successful
+
+Size: 1400x1400
+Operations: 5.488e+09
+Threads: 8
+Time: 12.1152 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Threads: 1
+Time: 70.2185 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Threads: 2
+Time: 35.54721 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Threads: 4
+Time: 22.0837 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Threads: 8
+Time: 17.12606 sec
+Verification: Successful
+
+Size: 1800x1800
+Operations: 1.166e+10
+Threads: 1
+Time: 101.4127 sec
+Verification: Successful
+
+Size: 1800x1800
+Operations: 1.166e+10
+Threads: 2
+Time: 50.33684 sec
+Verification: Successful
+
+Size: 1800x1800
+Operations: 1.166e+10
+Threads: 4
+Time: 31.089502 sec
+Verification: Successful
+
+Size: 1800x1800
+Operations: 1.166e+10
+Threads: 8
+Time: 24.24168 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Threads: 1
+Time: 135.763941 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Threads: 2
+Time: 68.4126 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Threads: 4
+Time: 42.1558 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Threads: 8
+Time: 33.28714 sec
+Verification: Successful
+
+Size: 4000x4000
+Operations: 1.280e+11
+Threads: 1
+Time: 1080.842551 sec
+Verification: Successful
+
+Size: 4000x4000
+Operations: 1.280e+11
+Threads: 2
+Time: 560.31744 sec
+Verification: Successful
+
+Size: 4000x4000
+Operations: 1.280e+11
+Threads: 4
+Time: 345.228903 sec
+Verification: Successful
+
+Size: 4000x4000
+Operations: 1.280e+11
+Threads: 8
+Time: 275.61428 sec
+Verification: Successful
+
