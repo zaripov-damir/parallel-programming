@@ -1,0 +1,143 @@
+Size: 200x200
+Operations: 1.600e+07
+Processes: 1
+Time: 4.986e-02 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Processes: 2
+Time: 2.568e-02 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Processes: 4
+Time: 1.436e-02 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Processes: 8
+Time: 1.218e-02 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Processes: 1
+Time: 4.081e-01 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Processes: 2
+Time: 2.053e-01 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Processes: 4
+Time: 1.068e-01 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Processes: 8
+Time: 8.700e-02 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Processes: 1
+Time: 3.419e+00 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Processes: 2
+Time: 1.896e+00 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Processes: 4
+Time: 1.112e+00 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Processes: 8
+Time: 8.050e-01 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Processes: 1
+Time: 1.368e+01 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Processes: 2
+Time: 7.536e+00 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Processes: 4
+Time: 3.984e+00 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Processes: 8
+Time: 2.750e+00 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Processes: 1
+Time: 3.682e+01 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Processes: 2
+Time: 1.942e+01 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Processes: 4
+Time: 1.013e+01 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Processes: 8
+Time: 7.459e+00 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Processes: 1
+Time: 8.950e+01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Processes: 2
+Time: 4.760e+01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Processes: 4
+Time: 2.560e+01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Processes: 8
+Time: 1.920e+01 sec
+Verification: Successful
