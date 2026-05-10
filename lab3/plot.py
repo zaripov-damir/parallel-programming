@@ -28,7 +28,7 @@ def main():
         plt.figure()
         plt.plot(threads, times, marker="o")
 
-        plt.xlabel("Number of threads")
+        plt.xlabel("Number of processes")
         plt.ylabel("Execution time (seconds)")
         plt.title(f"{n}x{n} Matrix Multiplication with MPI")
 
