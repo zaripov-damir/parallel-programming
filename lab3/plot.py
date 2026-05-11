@@ -7,8 +7,8 @@ def read_plot_data(filename):
 
     with open(filename, "r", encoding="utf-8") as file:
         for line in file:
-            n, threads, t = map(float, line.split())
-            data[int(n)].append((int(threads), t))
+            n, processes, t = map(float, line.split())
+            data[int(n)].append((int(processes), t))
 
     return data
 
@@ -18,15 +18,15 @@ def main():
 
     for n in sorted(data.keys()):
 
-        threads = []
+        processes = []
         times = []
 
-        for th, t in sorted(data[n]):
-            threads.append(th)
+        for pr, t in sorted(data[n]):
+            processes.append(pr)
             times.append(t)
 
         plt.figure()
-        plt.plot(threads, times, marker="o")
+        plt.plot(processes, times, marker="o")
 
         plt.xlabel("Number of processes")
         plt.ylabel("Execution time (seconds)")
