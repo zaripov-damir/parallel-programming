@@ -30,7 +30,7 @@ def main():
 
         plt.grid(True)
 
-        plt.savefig(f"plot_{n}.jpg", dpi=200)
+        plt.savefig(f"plot_{n}.jpg")
         plt.show()
 
 if __name__ == "__main__":
