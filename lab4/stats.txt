@@ -1,0 +1,215 @@
+Size: 200x200
+Operations: 1.600e+07
+Block size: 4x4
+Time: 4.345e-04 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Block size: 8x8
+Time: 2.243e-04 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Block size: 16x16
+Time: 2.348e-04 sec
+Verification: Successful
+
+Size: 200x200
+Operations: 1.600e+07
+Block size: 32x32
+Time: 3.223e-04 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Block size: 4x4
+Time: 3.368e-03 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Block size: 8x8
+Time: 1.660e-03 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Block size: 16x16
+Time: 1.657e-03 sec
+Verification: Successful
+
+Size: 400x400
+Operations: 1.280e+08
+Block size: 32x32
+Time: 1.865e-03 sec
+Verification: Successful
+
+Size: 500x500
+Operations: 2.500e+08
+Block size: 4x4
+Time: 6.477e-03 sec
+Verification: Successful
+
+Size: 500x500
+Operations: 2.500e+08
+Block size: 8x8
+Time: 3.237e-03 sec
+Verification: Successful
+
+Size: 500x500
+Operations: 2.500e+08
+Block size: 16x16
+Time: 3.277e-03 sec
+Verification: Successful
+
+Size: 500x500
+Operations: 2.500e+08
+Block size: 32x32
+Time: 3.312e-03 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Block size: 4x4
+Time: 2.602e-02 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Block size: 8x8
+Time: 1.301e-02 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Block size: 16x16
+Time: 1.299e-02 sec
+Verification: Successful
+
+Size: 800x800
+Operations: 1.024e+09
+Block size: 32x32
+Time: 1.316e-02 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Block size: 4x4
+Time: 7.241e-02 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Block size: 8x8
+Time: 4.383e-02 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Block size: 16x16
+Time: 4.366e-02 sec
+Verification: Successful
+
+Size: 1200x1200
+Operations: 3.456e+09
+Block size: 32x32
+Time: 4.420e-02 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Block size: 4x4
+Time: 1.483e-01 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Block size: 8x8
+Time: 1.020e-01 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Block size: 16x16
+Time: 1.039e-01 sec
+Verification: Successful
+
+Size: 1600x1600
+Operations: 8.192e+09
+Block size: 32x32
+Time: 1.031e-01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Block size: 4x4
+Time: 2.665e-01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Block size: 8x8
+Time: 1.644e-01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Block size: 16x16
+Time: 1.402e-01 sec
+Verification: Successful
+
+Size: 2000x2000
+Operations: 1.600e+10
+Block size: 32x32
+Time: 1.355e-01 sec
+Verification: Successful
+
+Size: 2500x2500
+Operations: 3.125e+10
+Block size: 4x4
+Time: 5.069e-01 sec
+Verification: Successful
+
+Size: 2500x2500
+Operations: 3.125e+10
+Block size: 8x8
+Time: 2.618e-01 sec
+Verification: Successful
+
+Size: 2500x2500
+Operations: 3.125e+10
+Block size: 16x16
+Time: 2.628e-01 sec
+Verification: Successful
+
+Size: 2500x2500
+Operations: 3.125e+10
+Block size: 32x32
+Time: 2.327e-01 sec
+Verification: Successful
+
+Size: 3000x3000
+Operations: 5.400e+10
+Block size: 4x4
+Time: 9.266e-01 sec
+Verification: Successful
+
+Size: 3000x3000
+Operations: 5.400e+10
+Block size: 8x8
+Time: 4.735e-01 sec
+Verification: Successful
+
+Size: 3000x3000
+Operations: 5.400e+10
+Block size: 16x16
+Time: 4.934e-01 sec
+Verification: Successful
+
+Size: 3000x3000
+Operations: 5.400e+10
+Block size: 32x32
+Time: 4.244e-01 sec
+Verification: Successful
